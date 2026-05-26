@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+results/final_model/model.safetensors
+
+*.log
+download_log.txt
+train_log.txt
+
+.env
+.venv/
+venv/
+
+notebook.ipynb
